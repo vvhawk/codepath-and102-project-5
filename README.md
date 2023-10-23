@@ -1,1 +1,2 @@
-# codepath-and102-project-5
+# CodePath Android 102 
+## Project 5: BitFit Part 1
